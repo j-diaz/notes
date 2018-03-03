@@ -1,8 +1,7 @@
-Concerns
-========
-
-Content based filtering:
- **What attributes should I use?**
+Content based filtering
+=======================
+ 
+**What attributes should I use?**
  Has an emphasis on using the right product attributes.
  Only use those attributes that influence user prefference.
 
