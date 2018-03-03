@@ -2,13 +2,13 @@ Concerns
 ========
 
 Content based filtering:
- What attributes should I use? 
+ **What attributes should I use?**
  Has an emphasis on using the right product attributes.
  Only use those attributes that influence user prefference.
 
  Once you choose them; meassure them
 
-How to meassure similarity of products?
+**How to meassure similarity of products?**
  1. Setup a rating/weight db add entries for each product.
     These ratings should be fixed scale (1..10) or (1..5)
     These ratings are Points in N-Dimensional Space
@@ -21,7 +21,7 @@ How to meassure similarity of products?
    /
 ```
 
- Algorithm implementation:
+ **Algorithm implementation:**
 
   User > Box > Recommended products
 
@@ -36,4 +36,4 @@ How to meassure similarity of products?
      |_ _ _ _ _ _ 
     /
   /
-``
+```
